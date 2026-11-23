@@ -66,8 +66,8 @@ no pooled fund.
 
 Zuz watches new pools on Igra, Robinhood Chain, Ethereum and Base and publishes
 alerts. Community calls from partner Discord servers are republished credited to
-whoever made the call, each community as its own stream with its own tab in the
-Mini App. Streams are opt-in per user with `/signals` and `/communities`.
+whoever made the call, each community as its own stream with its own card in the
+app's Discover. Streams are opt-in per user with `/signals` and `/communities`.
 
 Signals are not advice. Most memecoins go to zero. Size accordingly.
 
@@ -85,10 +85,15 @@ into but not out of.
 ## Partners
 
 Community owners and creators earn a share of the trading fees from users they
-bring, paid out of the fee at the moment of each trade to a wallet they set.
-Each partner community gets its own signal stream and its own tab in the Mini
-App, with calls credited to whoever made them. Ask in
-[@ZuzSupport](https://t.me/ZuzSupport).
+bring, taken out of the fee at the moment of each trade and paid to a payout
+wallet they set themselves with `/payout`.
+
+Each partner community gets its own signal stream, credited to whoever made each
+call, with its own card in the app's Discover and its own join link so members
+subscribe to that community's calls alone. An owner can also keep their stream
+off the shared public channel.
+
+Ask in [@ZuzSupport](https://t.me/ZuzSupport).
 
 ## This repository
 
